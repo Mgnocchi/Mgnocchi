@@ -10,7 +10,7 @@ Mgnocchi/Mgnocchi is a ✨ special ✨ repository because its `README.md` (this 
 You can click the Preview link to take a look at your changes.
 --->
 
-Mathematician by formation, currently trying to become data scientist and learning everything that grabs my interest. 
+Mathematician by formation, currently trying to become a DevOps engeneer and learning everything that grabs my interest. 
 A long journey, but an interesting and stimulating one.
 
 Here you might find some personal projects I occupy my free time with, some undergrad level code I made back before I got my degree and about my personal journey in learing and in setting up the best environment in which to do so.
